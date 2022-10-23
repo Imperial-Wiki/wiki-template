@@ -30,7 +30,7 @@ dateCreated: 2021-09-29T16:31:19.799Z
 > The table is divided into the autumn and spring terms. 
 {.is-info}
 
-<img src="https://chemengwiki.com/tutorial/contenttable.png" style="width:400px" alt="Content table">
+<img src="/tutorial/contenttable.png" style="width:400px" alt="Content table">
     <p style="font-size: 14px; text-align: center; color: grey">
 				1. Content table
 		</p>
@@ -40,19 +40,19 @@ You can also explore the pages in ChemEng Wiki using the navigation bar on the l
 <br>
 <div class="row" style="width:800px; margin:0 auto;">
   <div class="column">
-    <img src="https://chemengwiki.com/tutorial/navigation.png" style="width:230px;padding: 10px" alt="Navigation bar">
+    <img src="/tutorial/navigation.png" style="width:230px;padding: 10px" alt="Navigation bar">
     <p style="font-size: 14px; text-align: center; color: grey">
 				2. Navigation bar
 		</p>
   </div>
   <div class="column">
-    <img src="https://chemengwiki.com/tutorial/navigationfolder.png" alt="Folders" style="width:175px;padding: 10px">
+    <img src="/tutorial/navigationfolder.png" alt="Folders" style="width:175px;padding: 10px">
     <p style="font-size: 14px; text-align: center; color: grey">
 				3. Folders
 		</p>
   </div>
   <div class="column">
-    <img src="https://chemengwiki.com/tutorial/navigationpage.png" alt="Pages" style="width:275px;padding: 10px">
+    <img src="/tutorial/navigationpage.png" alt="Pages" style="width:275px;padding: 10px">
     <p style="font-size: 14px; text-align: center; color: grey">
 				4. Pages
 		</p>
@@ -64,7 +64,7 @@ Each page has its own table of contents. Clicking on a header will redirect you 
 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/tableofcontents.png" style="width:400px" alt="Table of contents">
+<img src="/tutorial/tableofcontents.png" style="width:400px" alt="Table of contents">
     <p style="font-size: 14px; text-align: center; color: grey">
 				5. Table of contents
 		</p>
@@ -72,7 +72,7 @@ Each page has its own table of contents. Clicking on a header will redirect you 
 > You can click the ChemEng Wiki on the top left corner of the page to be redirected to the homa page. {.is-info}
 # Printing
 If you need physical copies of the page, you can click on the Printer Format icon located below the table of contents. 
-<img src="https://chemengwiki.com/tutorial/printformat.png" style="width:400px" alt="Print Format icon">
+<img src="/tutorial/printformat.png" style="width:400px" alt="Print Format icon">
     <p style="font-size: 14px; text-align: center; color: grey">
 				6. Print Format icon
 		</p>
@@ -81,7 +81,7 @@ You can also use the Share button beside it to share a page with your peers. I b
 ChemEng Wiki uses Hypothes.is to provide highlight and annotation support. You'll need to create an account to use it. 
 ## Creating a Hypothes.is Account. 
 <br>
-<img src="https://chemengwiki.com/tutorial/sidebarhypothesis.png" style="width:200px" alt="Hypothesis sidebar">
+<img src="/tutorial/sidebarhypothesis.png" style="width:200px" alt="Hypothesis sidebar">
     <p style="font-size: 14px; text-align: center; color: grey">
 				7. Hypothesis Sidebar
 		</p>
@@ -89,7 +89,7 @@ ChemEng Wiki uses Hypothes.is to provide highlight and annotation support. You'l
 1. You should see these icons on the top right corner of the page. Click the left-arrow (<) option.
 
 <br>
-<img src="https://chemengwiki.com/tutorial/signuphypothesis.png" style="width:400px" alt="Hypothesis sidebar">
+<img src="/tutorial/signuphypothesis.png" style="width:400px" alt="Hypothesis sidebar">
     <p style="font-size: 14px; text-align: center; color: grey">
 				8. Sign up on Hypothes.is
 		</p>
@@ -99,7 +99,7 @@ ChemEng Wiki uses Hypothes.is to provide highlight and annotation support. You'l
 3. Once you have successfully created your account and logged in, you can create annotations or highlights onto the page. Simply select the text and slect one of the two options.
 
 <br>
-<img src="https://chemengwiki.com/tutorial/optionshypothesis.png" style="width:500px" alt="Options to annotate or highlight">
+<img src="/tutorial/optionshypothesis.png" style="width:500px" alt="Options to annotate or highlight">
     <p style="font-size: 14px; text-align: center; color: grey">
 				9. Options to annotate or highlight
 		</p>
@@ -127,7 +127,7 @@ When making annotations, you should choose the Only Me option when your group is
 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/onlyme.png" style="width:400px" alt="Please choose Only Me for personal notes">
+<img src="/tutorial/onlyme.png" style="width:400px" alt="Please choose Only Me for personal notes">
     <p style="font-size: 14px; text-align: center; color: grey">
 				10. Please choose Only Me for personal notes
 		</p>
@@ -135,7 +135,7 @@ When making annotations, you should choose the Only Me option when your group is
 You can also change to a private group through clicking on the option besides the Hypothesis logo. You can create a new private group with the option in the bottom. 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/changegroup.png" style="width:400px" alt="Change to a private group">
+<img src="/tutorial/changegroup.png" style="width:400px" alt="Change to a private group">
     <p style="font-size: 14px; text-align: center; color: grey">
 				11. Change to a private group
 		</p>
@@ -144,7 +144,7 @@ You can also change to a private group through clicking on the option besides th
 You won't see an option to make you annotations public if you switch to a private group. 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/nopublic.png" style="width:250px" alt="No Public Option">
+<img src="/tutorial/nopublic.png" style="width:250px" alt="No Public Option">
     <p style="font-size: 14px; text-align: center; color: grey">
 				12. No Public Option
 		</p>
@@ -155,14 +155,14 @@ Your annotations will be saved and can be accessed again in your next visit. Mar
 At the bottom of each page, you will find a comment box. Feel free to use the comment section to discuss topics or ask questions. Markdown formatting is used for comments. 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/comments.png" style="width:900px" alt="Comments">
+<img src="/tutorial/comments.png" style="width:900px" alt="Comments">
     <p style="font-size: 14px; text-align: center; color: grey">
 				13. Comments
 		</p>
     
 Clicking on either the View Discussion or New Comment options below the Table of Contents will redirect you to the comments section. <br>
 
-<img src="https://chemengwiki.com/tutorial/redirectcomments.png" style="width:300px" alt="Click these to be redirected to comments. ">
+<img src="/tutorial/redirectcomments.png" style="width:300px" alt="Click these to be redirected to comments. ">
     <p style="font-size: 14px; text-align: center; color: grey">
 				14. Click these to be redirected to comments
 		</p>
@@ -172,7 +172,7 @@ Our website also has a search bar and "filter by tags" option at the top of the 
 <br>
 
 
-<img src="https://chemengwiki.com/tutorial/searchbar.png" style="width:500px" alt="Search bar and tags">
+<img src="/tutorial/searchbar.png" style="width:500px" alt="Search bar and tags">
     <p style="font-size: 14px; text-align: center; color: grey">
 				15. Search bar and tags
 		</p>
@@ -218,7 +218,7 @@ However, this is then an issue should any of those letters be required in lectur
 All users of ChemEng Wiki have edit permissions. To edit a document you can click the Page Actions option on the top right corner. 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/pageactions.png" style="width:250px" alt="Page Actions">
+<img src="/tutorial/pageactions.png" style="width:250px" alt="Page Actions">
 <p style="font-size: 14px; text-align: center; color: grey">
 				16. Page Actions
 </p>
@@ -241,7 +241,7 @@ This gives:
 ## Images
 In order to provide alternative text and image captions, we use HTML for all images. Markdown images also are not center aligned so please refrain from using them. 
 ```HTML
-<img src="https://chemengwiki.com/tutorial/pageactions.png" style="width:250px" alt="Page Actions">
+<img src="/tutorial/pageactions.png" style="width:250px" alt="Page Actions">
 <p style="font-size: 14px; text-align: center; color: grey">
 				16. Page Actions
 </p>
@@ -271,14 +271,14 @@ Latex equations may sometimes break the theme (not always, the example below act
 With HTML snippets, it's better to add spacing with the theme. 
 ```
 ><br>
-><img src="https://chemengwiki.com/1st_Year/Maths1/Assets/maths1_1/1.png" style="width:200px" alt="[ENTER DESCRIPTION]">
+><img src="/tutorial/pageactions.png" style="width:200px" alt="[ENTER DESCRIPTION]">
 ><p style="font-size: 14px; text-align: center; color: grey">
 >1. [ENTER DESCRIPTION]
 ></p>
 >{.is-warning}
 ```
 ><br>
-><img src="https://chemengwiki.com/1st_Year/Maths1/Assets/maths1_1/1.png" style="width:200px" alt="[ENTER DESCRIPTION]">
+><img src="//tutorial/pageactions.png" style="width:200px" alt="[ENTER DESCRIPTION]">
 ><p style="font-size: 14px; text-align: center; color: grey">
 >1. [ENTER DESCRIPTION]
 ></p>
@@ -286,7 +286,7 @@ With HTML snippets, it's better to add spacing with the theme.
  for instance, breaks. This doesn't. 
 ```
 ><br>
-><img src="https://chemengwiki.com/1st_Year/Maths1/Assets/maths1_1/1.png" style="width:200px" alt="[ENTER DESCRIPTION]">
+><img src="//tutorial/pageactions.png" style="width:200px" alt="[ENTER DESCRIPTION]">
 ><p style="font-size: 14px; text-align: center; color: grey">
 >1. [ENTER DESCRIPTION]
 ></p>
@@ -294,7 +294,7 @@ With HTML snippets, it's better to add spacing with the theme.
 >{.is-warning}
 ```
 ><br>
-><img src="https://chemengwiki.com/1st_Year/Maths1/Assets/maths1_1/1.png" style="width:200px" alt="[ENTER DESCRIPTION]">
+><img src="/tutorial/pageactions.png" style="width:200px" alt="[ENTER DESCRIPTION]">
 ><p style="font-size: 14px; text-align: center; color: grey">
 >1. [ENTER DESCRIPTION]
 ></p>
@@ -349,7 +349,7 @@ ChemEng Wiki is synced with Git and we have a private remote repository on GitHu
 Images are placed in Assets folders. It should be easier to understand how they are organized if you see the folder structure in the repository. Here's a screenshot from my VSCode. 
 <br>
 
-<img src="https://chemengwiki.com/tutorial/folderstructure.png" style="width:600px" alt="Assets folder structure">
+<img src="/tutorial/folderstructure.png" style="width:600px" alt="Assets folder structure">
 <p style="font-size: 14px; text-align: center; color: grey">
 				17. Assets folder structure
 </p>
